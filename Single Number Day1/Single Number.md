@@ -1,7 +1,5 @@
 # LeetCode Problem 136: Single Number
 
-![LeetCode Problem Screenshot](https://raw.githubusercontent.com/mkeerthana-08/Leetcode_Challange/main/Single%20Number%20Day1/image.jpeg)
-
 ## Problem Statement
 Given a **non-empty** array of integers `nums`, every element appears **twice** except for one. Find that single one.
 
