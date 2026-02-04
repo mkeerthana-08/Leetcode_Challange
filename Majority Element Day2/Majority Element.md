@@ -9,7 +9,7 @@ You may assume that the majority element always exists in the array.
 
 ## Screenshot
 
-![Accepted Solution](screenshots/accepted_solution.png)
+![Accepted Solution](screenshots/ss.png)
 
 **Runtime:** 0 ms (Beats 100.00%)  
 **Memory:** 28.13 MB (Beats 62.64%)  
